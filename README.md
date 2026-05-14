@@ -1,2 +1,15 @@
-# android-calculator-app
-Android Calculator App built using Java and Android Studio. Supports basic arithmetic operations with user-friendly UI and input validation.
+
+# Android Calculator App
+
+This is a simple calculator application developed using Java in Android Studio.
+
+## Features
+- Addition, Subtraction, Multiplication, Division
+- User-friendly UI
+- Input validation
+- Clear button functionality
+
+## Technologies Used
+- Java
+- Android Studio
+- XML
